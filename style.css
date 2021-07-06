@@ -7,15 +7,17 @@ h1{
 .green-color{
 color: green;
 }
-section{
+.flexible-container{
     display: flex;
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 .jewel-1{
     width: 50%;
     padding-left: 5%;
 }
 .jewel-1 img{
-    width: 100%;
+    width: 80%;
 }
 .link-button{
     text-decoration: none;
@@ -24,4 +26,38 @@ section{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+.jewel-11{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.jewel-11 img{
+    width: 70%;
+}
+.Myrecipies-2{
+    width: 400px;
+    height: 450px;
+    top: 20px;
+    box-shadow: 10px 10px 40px green;
+    margin-left: 10px;
+    margin-right: 3%;
+    padding-left: 80px;
+}
+.Subscribers{
+    background-image: linear-gradient(green, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    width: 500px;
+}
+.FOOD{
+    color: white;
+background-image: linear-gradient(black, black);
+box-shadow: 10px 10px 40px green;
+height: 200px;
+text-align: center;
+}
+.recipies{
+    text-align: center;
 }
