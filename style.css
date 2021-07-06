@@ -43,6 +43,8 @@ color: green;
     margin-left: 10px;
     margin-right: 3%;
     padding-left: 80px;
+    border-radius: 10px;
+    background-image: url(images/food/Project\ Cover4.png);
 }
 .Subscribers{
     background-image: linear-gradient(green, tomato);
@@ -60,4 +62,27 @@ text-align: center;
 }
 .recipies{
     text-align: center;
+}
+.Myrecipies-3{
+    width: 400px;
+    height: 450px;
+    top: 20px;
+    box-shadow: 10px 10px 40px green;
+    margin-left: 10px;
+    margin-right: 3%;
+    padding-left: 80px;
+    border-radius: 10px;
+    background-image: url(images/food/Project\ Cover5.png);
+}
+.Myrecipies-4{
+    width: 400px;
+    height: 450px;
+    top: 20px;
+    box-shadow: 10px 10px 40px green;
+    margin-left: 10px;
+    margin-right: 3%;
+    padding-left: 80px;
+    border-radius: 10px;
+    background-image: url(images/food/Project\ Cover1.jpg);
+    image size: box-shadow: 10px;
 }
