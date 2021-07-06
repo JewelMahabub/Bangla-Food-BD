@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+.green-color{
+color: green;
+}
+section{
+    display: flex;
+}
+.jewel-1{
+    width: 50%;
+    padding-left: 5%;
+}
+.jewel-1 img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(green, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
