@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin-top: 0%;
 }
 h1{
     font-size: 60px;
@@ -84,5 +85,4 @@ text-align: center;
     padding-left: 80px;
     border-radius: 10px;
     background-image: url(images/food/Project\ Cover1.jpg);
-    image size: box-shadow: 10px;
 }
